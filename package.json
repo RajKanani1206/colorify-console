@@ -1,0 +1,30 @@
+{
+  "name": "colorify-console",
+  "version": "1.0.0",
+  "description": "A library to spread colors to your console",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajKanani1206/colorify-console.git"
+  },
+  "keywords": [
+    "console log colored",
+    "colorify logs"
+  ],
+  "author": "Raj Kanani <rajkanani1206@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RajKanani1206/colorify-console/issues"
+  },
+  "homepage": "https://github.com/RajKanani1206/colorify-console#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
