@@ -1,5 +1,5 @@
 {
-  "name": "colored-console",
+  "name": "@raj1206/colorify-console",
   "version": "1.0.0",
   "description": "A library to spread colors to your console",
   "main": "lib/index.ts",
