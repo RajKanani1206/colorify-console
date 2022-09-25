@@ -2,7 +2,8 @@
   "name": "colorify-console",
   "version": "1.0.0",
   "description": "A library to spread colors to your console",
-  "main": "lib/index.js",
+  "main": "lib/index.ts",
+  "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
